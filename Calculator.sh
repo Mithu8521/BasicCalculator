@@ -3,3 +3,5 @@ SecondNo=20
 Addition=$((FirstNo+SecondNo))
 echo $Addition
 
+Substraction=$((FirstNo-SecondNo))
+echo $Substraction
