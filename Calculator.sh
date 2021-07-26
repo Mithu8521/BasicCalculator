@@ -8,3 +8,7 @@ echo $Substraction
 
 Multiplication=$((FirstNo*SecondNo))
 echo $Multiplication
+
+Division=$((FirstNo/SecondNo))
+echo $Division
+
